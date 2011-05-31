@@ -1,0 +1,5 @@
+Scripts to toggle GUI programs between suspended and running state (for example to suspend those cpu and memory hungry browsers while you want to use your full computing resources to something else and the idea of restarting browser with hundres of tabs [in tnes of windwos] open is not exactly appealing).
+
+  * toggle_chrome.scpt AppleScript, toggles Google chrome between suspend and running
+  * toggle_ff.scpt AppleScript, toggles Firefox between suspend and running
+  * toggle_browsers bash, script to run both of the above applescripts and optionally also run "purge" to release "inactive" memory.

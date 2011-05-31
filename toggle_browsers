@@ -1,0 +1,4 @@
+#!/bin/bash -x
+/usr/bin/osascript /usr/local/bin/toggle_chrome.scpt
+/usr/bin/osascript /usr/local/bin/toggle_ff.scpt
+#/usr/bin/purge
